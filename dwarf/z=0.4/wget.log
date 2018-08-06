@@ -1,0 +1,17 @@
+--2018-07-26 01:28:54--  http://www.illustris-project.org/api/Illustris-1/snapshots/108/subhalos/645445/cutout.hdf5
+Resolving www.illustris-project.org (www.illustris-project.org)... 23.239.9.40
+Connecting to www.illustris-project.org (www.illustris-project.org)|23.239.9.40|:80... connected.
+HTTP request sent, awaiting response... 302 FOUND
+Location: http://data.illustris-project.org/app/cutout/subhalo/L75n1820FP/108/645445/2097151.127.0.0.16383.2097151/?token=765853c3b27360b2d921 [following]
+--2018-07-26 01:28:54--  http://data.illustris-project.org/app/cutout/subhalo/L75n1820FP/108/645445/2097151.127.0.0.16383.2097151/?token=765853c3b27360b2d921
+Resolving data.illustris-project.org (data.illustris-project.org)... 140.247.151.71
+Connecting to data.illustris-project.org (data.illustris-project.org)|140.247.151.71|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65536 (64K) [application/octet-stream]
+Saving to: ‘cutout_645445.hdf5’
+
+     0K .......... .......... .......... .......... .......... 78% 1.41M 0s
+    50K .......... ....                                       100%  104M=0.03s
+
+2018-07-26 01:28:55 (1.79 MB/s) - ‘cutout_645445.hdf5’ saved [65536/65536]
+
